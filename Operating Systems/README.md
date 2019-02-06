@@ -203,3 +203,12 @@
 * Device drivers
 * Disk arm scheduling algorithm
 * Elevator (SCAN) algorithm
+
+## Example of using Fork and Pipe in Linux
+
+Program written in C showing how to write Fork and Pipe in Linux
+
+## How to Create a System Call in Linux 
+
+Note: Be aware, the Linux kernel changes from version to version. 
+These examples may not work in current Linux Kernel.

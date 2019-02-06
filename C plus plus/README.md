@@ -71,3 +71,13 @@
 
 * New and Delete
 * Random Notes
+
+## Pointers in C and C plus plus.pdf
+
+## Pointers with Arrays in C and C plus plus.pdf
+
+## Dangling and Wild Pointers in C and C plus plus.pdf
+
+## Function Pointers in C and C plus plus.pdf
+
+## Mangling in C plus plus.pdf
